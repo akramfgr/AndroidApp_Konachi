@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Konachiii</string>
+    <string name="settings">Chart</string>
+    <string name="history">historique</string>
+    <string name="delete">credits</string>
+    <string name="chart">Home</string>
+    <string name="add">statistique</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

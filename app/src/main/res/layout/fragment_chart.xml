@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChartFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/img_category"
+            android:layout_width="80dp"
+            android:layout_height="73dp"
+            android:layout_marginTop="184dp"
+            android:src="@mipmap/app"
+            app:layout_constraintEnd_toStartOf="@+id/button"
+            app:layout_constraintHorizontal_bias="0.67"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/img_client"
+            android:layout_width="74dp"
+            android:layout_height="71dp"
+            android:layout_marginStart="56dp"
+            android:layout_marginTop="52dp"
+            android:src="@mipmap/client"
+            app:layout_constraintEnd_toStartOf="@+id/c"
+            app:layout_constraintHorizontal_bias="0.326"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/img_product" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/c"
+            android:layout_width="169dp"
+            android:layout_height="33dp"
+            android:layout_marginTop="92dp"
+            android:layout_marginEnd="60dp"
+            android:background="@color/teal_200"
+            android:text="client"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button2" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button"
+            android:layout_width="176dp"
+            android:layout_height="34dp"
+            android:layout_marginTop="196dp"
+            android:layout_marginEnd="56dp"
+            android:background="@color/teal_200"
+            android:text="category"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button2"
+            android:layout_width="176dp"
+            android:layout_height="33dp"
+            android:layout_marginTop="84dp"
+            android:layout_marginEnd="52dp"
+            android:background="@color/teal_200"
+            android:text="produit"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/img_product"
+            android:layout_width="75dp"
+            android:layout_height="71dp"
+            android:layout_marginTop="40dp"
+            android:src="@mipmap/products"
+            app:layout_constraintEnd_toStartOf="@+id/button2"
+            app:layout_constraintHorizontal_bias="0.666"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/img_category" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</FrameLayout>

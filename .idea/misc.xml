@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/drawable/chart.xml" value="0.165" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/activity_category_crud2.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/activity_client_crud2.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/activity_main.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/activity_produit_crud2.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/child_item.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/client_alert.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/client_item.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/client_item_credit.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/fragment_add.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/fragment_alert.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/fragment_chart.xml" value="0.33" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/fragment_crud.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/fragment_delete.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/group_item.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/historique_item.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/product_edit_alert.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/produit_item.xml" value="0.25" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/produit_item_credit.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/layout/simple_item.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/menu/bottom_app_bar.xml" value="0.215625" />
+        <entry key="..\:/Users/Akram FG/Desktop/konachProjrct-master/app/src/main/res/menu/credit_menu.xml" value="0.215625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/drawable-anydpi/chart.xml" value="0.1795" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/drawable/add.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/drawable/alert_bg.xml" value="0.136" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/drawable/chart.xml" value="0.132" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/drawable/creditIem.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/drawable/credit_item.xml" value="0.1565" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/drawable/delete.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/drawable/history.xml" value="0.1565" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/drawable/rounded_corners.xml" value="0.136" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/drawable/settings.xml" value="0.1415" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/activity_category_crud2.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/activity_client_crud2.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/activity_produit_crud.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/activity_produit_crud2.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/child_item.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/client_alert.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/client_item.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/client_item_credit.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/fragment_add.xml" value="0.29018789144050106" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/fragment_alert.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/fragment_chart.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/fragment_crud.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/fragment_delete.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/fragment_history.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/group_item.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/historique_item.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/product_edit_alert.xml" value="0.46226415094339623" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/produit_item.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/produit_item_credit.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/rounded_corners.xml" value="0.10625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/layout/simple_item.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/menu/azaz.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/menu/bottom_app_bar.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/menu/credit_menu.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/konachProjrct/app/src/main/res/menu/navigation.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
